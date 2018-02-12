@@ -1,2 +1,2 @@
 # my-demo-artifact
-A repo to test GIT APIs
+A repo to test GIT APIs. and more
